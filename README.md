@@ -1,2 +1,2 @@
 # OnlyNamingConventions
- Base FileMaker file with only naming conventions.
+ A FileMaker base file with self-created naming conventions.
